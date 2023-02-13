@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+body{
+background-image: url("https://free4kwallpapers.com/uploads/originals/2020/07/19/night-city-k-wallpaper.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+  height: 100%;
+  display: flex;
+  padding-top: 15%;
+  padding-bottom: 10%;
+  color: #B5F1CC;
+  align-items: center;
+  justify-content: center;
+}
+#defaultbg{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+padding: 10px;
+  width: 100%;
+
+}
+.default{
+  background-image: url("https://free4kwallpapers.com/uploads/originals/2020/07/19/night-city-k-wallpaper.jpg");
+}
+.haze{
+  background-image: url("https://c0.wallpaperflare.com/preview/668/674/475/fogs-over-the-green-trees.jpg");
+}
+.cloud{
+  background-image: url("  https://media.istockphoto.com/id/598222542/photo/sky-background.jpg?s=612x612&w=0&k=20&c=WBAiCExAztT4SzWh4hIgmQwTG7VMJ5o9oObXHszmm8A=");
+  color: black;
+}
+.fog{
+  background-image: url("https://pbs.twimg.com/media/EUCRanIXQAAGwRI?format=jpg&name=small");
+}
+
+.rain{
+  background-image: url("https://i.pinimg.com/originals/69/e0/13/69e01301bf2ae2846ea70e073a3d1286.gif");
+}
+.clear-sky{ 
+  background-image: url("https://wallpapers.com/images/featured/0ke2itg1dzw1rcj0.jpg");
+  color:#301E67;
+}
+.cold{
+  background-image: url("https://rare-gallery.com/thumbs/1114807-street-light-anime-reflection-snow-winter-road-evening-morning-mist-dusk-Freezing-cloud-fog-weather-dawn-season-atmospheric-phenomenon.jpg");
+}
+.mist
+{
+  background-image: url("https://cdn.images.express.co.uk/img/dynamic/153/590x/what-is-fog-1091621.jpg?r=1551003609199");
+}
+.sandy{
+  background-image: url("https://imagevars.gulfnews.com/2019/03/01/DUBAI_WEATHER_resources1_16a30b2b84b_medium.jpg");
+}
+.snow{
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/538/183/751/snow-city-night-japan-wallpaper-preview.jpg");
+  color:black;
+}
+.sunny{
+  background-image: url("https://w0.peakpx.com/wallpaper/377/381/HD-wallpaper-sunny-anime-green-sky-sun.jpg");
+}
+.tornado{
+  background-image: url("https://www.preventionweb.net/sites/default/files/2022-03/Image-tornado.jpg");
+}
+.squalls{
+  background-image: url("https://images.allthescience.org/squall-line.jpg");
+  color:#301E67;
+
+}
+.volcanic-ash{
+  background-image: url("https://wallpaperaccess.com/full/1231662.jpg");
+}
+.input-city
+{
+  background-color: blanchedalmond;
+  color: black;
+  border-radius: 20px;
+  width: 150px;
+  height: 25px;
+  font-size: 15px;
+  padding: 5px;
+  border: 0.2px solid black;
+outline: none;
+}
+
+input:focus{
+  box-shadow: inset 0 0 0 1px #fff,
+  0 0 0 2px #fff,
+  3px -3px 30px #1beabd, 
+  -3px 3px 30px #10abff;
+margin: 0;
+
+outline: none;
+}
