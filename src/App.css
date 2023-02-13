@@ -6,10 +6,8 @@ background-image: url("https://free4kwallpapers.com/uploads/originals/2020/07/19
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
-  height: 100%;
+  height: 100vh;
   display: flex;
-  padding-top: 15%;
-  padding-bottom: 10%;
   color: #B5F1CC;
   align-items: center;
   justify-content: center;
